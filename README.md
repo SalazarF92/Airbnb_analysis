@@ -19,9 +19,9 @@ Neste notebook foi feito uma análise da Cidade do Cabo (Cape Town) - África do
 
 
 
-## Outros Projetos Meus:
+<!-- ## Outros Projetos Meus:
 
-<!-- Business
+Business
 * **[Image Classification using Convolutional Neural Networks](https://bit.ly/3cdckqJ)**
 
 * **[Sales Forecast With Prophet](https://bit.ly/2wHiD6l)**
